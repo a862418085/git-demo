@@ -9,6 +9,7 @@ public class GitDemoApplication {
     public static void main(String[] args) {
         System.out.println("添加缓存区");
         System.out.println("添加缓存区2");
+        System.out.println("push test");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
