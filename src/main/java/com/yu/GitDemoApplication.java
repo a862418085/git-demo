@@ -13,6 +13,7 @@ public class GitDemoApplication {
         System.out.println("push test2");
         System.out.println("push test33333");
          System.out.println("pull test444");
+        System.out.println("push test55555555");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
