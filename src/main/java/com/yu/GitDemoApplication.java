@@ -11,7 +11,6 @@ public class GitDemoApplication {
         System.out.println("添加缓存区2");
         System.out.println("push test1");
         System.out.println("push test2");
-         System.out.println("push test3");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
